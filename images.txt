@@ -10,3 +10,4 @@ kasmweb/nginx:1.25.3
 registry.k8s.io/ingress-nginx/controller:v1.6.3
 registry.k8s.io/ingress-nginx/controller:v1.5.1
 centos:7.9.2009
+golang:1.19.0
